@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+
+body {
+	font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight:300;
+}
+.container{
+	margin-top: 20px;
+}
+.sidebar{
+	margin-top: 10px;
+	position: fixed;
+}
+.date{
+	line-height: 20px;
+	text-align: right;
+	margin: 10px 0;
+}
+.content{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.content p{
+	line-height: 1.9em;
+}
+
+.link a{
+	display: inline-block;
+	margin-right: 10px;
+}
+.link a:hover{
+	text-decoration: none;
+}
+.link a i{
+	font-size: 23px;
+	color: #333;
+}

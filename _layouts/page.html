@@ -1,0 +1,22 @@
+---
+layout: base
+---
+<div class="row">
+	<div class="span5 title">
+		<h4><a href="{{ post.url }}"> {{ page.title }}</a></h4>
+	</div>
+	<div class="span2 date">
+		{{ page.date | date: "%b %Y" }}
+	</div>
+</div>
+<div class="row">
+	<div class="span7 content">
+		{{ content }}
+	</div>
+</div>
+<div class="row comment">
+	<div class="span7">
+		<div class="fb-like" data-href="http://edelprino.com{{ page.url }}" data-send="false" data-width="540" data-show-faces="true"></div>
+		<div class="fb-comments" data-href="http://edelprino.com{{ page.url }}" data-width="540" data-num-posts="4"></div>
+	</div>
+</div>
