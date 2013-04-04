@@ -22,6 +22,7 @@ body {
 }
 .content p{
 	line-height: 1.9em;
+	text-align: justify;
 }
 
 .link a{
