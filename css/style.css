@@ -24,7 +24,9 @@ body {
 	line-height: 1.9em;
 	text-align: justify;
 }
-
+.content li{
+	line-height: 1.9em;
+}
 .link a{
 	display: inline-block;
 	margin-right: 10px;
