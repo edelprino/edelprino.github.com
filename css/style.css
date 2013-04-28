@@ -4,12 +4,14 @@ body {
 	font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-weight:300;
 }
+a:hover {
+    text-decoration: none;
+}
 .container{
 	margin-top: 20px;
 }
 .sidebar{
 	margin-top: 10px;
-	position: fixed;
 }
 .date{
 	line-height: 20px;
