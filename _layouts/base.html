@@ -2,59 +2,57 @@
 <html>
 <head>
 	<title>{{ page.title }}</title>
-	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-	
-	<link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css" />
-	<link rel="stylesheet" type="text/css" href="/css/font-awesome.min.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0-rc1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" >
 	<!--[if IE 7]>
-	<link rel="stylesheet" href="/css/font-awesome-ie7.min.css">
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome-ie7.min.css">
 	<![endif]-->
-	<link rel="stylesheet" type="text/css" href="/css/style.css" />
-
+    <style>
+        body { padding-top: 70px; }
+        p { line-height: 26px }
+        ul.social a { font-size: 18px }
+    </style>
+	
 	<script type="text/javascript">
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-38378836-1']);
-	_gaq.push(['_trackPageview']);
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-38378836-1']);
+        _gaq.push(['_trackPageview']);
 
-	(function() {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
 	</script>
-	</head>
+</head>
 <body>
-<script>
-(function(d, s, id) {
-	var js, fjs = d.getElementsByTagName(s)[0];
-	if (d.getElementById(id)) return;
-	js = d.createElement(s); js.id = id;
-	js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1&appId=410563602315394";
-	fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-</script>
-
-<div class="container">
-	<div class="row">
-		<div class="span3 offset1 sidebar">
-			<a href="/">
-				<img src="/img/me.jpg" width="100px" class="img-circle">
-			</a>
-            <h4><a href="/">Ettore Delprino</a></h4>
-			<p>Developer. Climber. Minimalista</p>
-			<div class="link">
-				<a href="https://twitter.com/edelprino" id="twitter"><i class="icon-twitter"></i></a>
-				<a href="https://github.com/edelprino" id="github"><i class="icon-github-alt"></i></a>
-				<a href="http://www.linkedin.com/in/edelprino" id="linkedin"><i class="icon-linkedin-sign"></i></a>
-				<a href="mailto:edelprino@gmail.com" id="email"><i class="icon-envelope-alt"></i></a>
-			</div>
-		</div>
-		<div class="span7">
-
-		{{ content }}
-
-		</div>
-	</div>
+<div class="navbar navbar-fixed-top">
+    <div class="container">
+        <div class="row">
+            <div class="col-offset-3 col-lg-6">
+                <ul class="nav navbar-nav">
+                    <a class="navbar-brand" href="/">Ettore Delprino</a>
+                    <!--<li class=""><a href="#">About Me</a></li>-->
+                </ul>
+                <ul class="nav navbar-nav pull-right social">
+                    <li><a href="mailto:edelprino@gmail.com"><i class="icon-envelope-alt"></i></a></li>
+                    <li><a href="https://github.com/edelprino"><i class="icon-github"></i></a></li>
+                    <li><a href="https://twitter.com/edelprino"><i class="icon-twitter"></i></a></li>
+                    <li><a href="http://www.linkedin.com/in/edelprino"><i class="icon-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
 </div>
+<div class="container">
+<div clas="row">
+<div class="col-offset-3 col-lg-6">
+		{{ content }}
+</div>
+</div>
+
 </body>
 </html>
