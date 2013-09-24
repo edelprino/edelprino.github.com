@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Ho migrato sulle github pages
 ---
 Era da un po' che mi ripromettevo di fare questo "passo" e stasera dopo tanto posticipare, ecco qua.

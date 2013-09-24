@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Agassi e i programmatori 
+layout: post
+title: Agassi e i programmatori
 ---
 Vi starete chiedendo, che cos’ha a che fare Andrea Agassi, il famoso tennista, con un programmatore? Ora vi spiego…
 

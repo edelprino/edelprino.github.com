@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Come ho iniziato con vim
 draft: true
 ---
