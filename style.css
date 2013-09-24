@@ -55,6 +55,9 @@ h1 a { color: #333;}
 .gray { color: #999; }
 
 img.avatar {
+    width: 75px;
+    float: left;
+    margin-right: 20px;
     border-radius: 150px;
     -webkit-border-radius: 150px;
     -moz-border-radius: 150px;
