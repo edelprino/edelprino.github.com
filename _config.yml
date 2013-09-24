@@ -1,2 +1,9 @@
+name: "Ettore Delprino"
+description: "Climber. Developer. Minimalist"
+author: ""
+
+url: ""
+
+exclude: [README.md]
+paginate: 10
 permalink: /:title
-name: Ettore Delprino
