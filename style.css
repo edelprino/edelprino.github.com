@@ -23,12 +23,15 @@ ul, p, .p {
   font-size: 18px;
   margin-bottom: 32px;
 }
+ul {
+    margin-left: 20px;
+}
 small, .small { font-size: 16px; }
 
 @media screen and (min-width: 640px) {
   h1, .h1 { font-size: 48px; }
   h2, .h2 { font-size: 32px; }
-  p, .p   { font-size: 20px; }
+  ul, p, .p   { font-size: 20px; }
 }
 
 a { color: #09c; text-decoration: none; }
