@@ -18,12 +18,12 @@ In Clean Code viene dedicato un intero capitolo:
 Ovviamente per poter permettersi di **non scrivere** un commento è necessario essere sicuri che il codice sia comprensibile.
 
 Faccio un esempio, è più facile capire
-``` 
+```
 // Check to see if the employee is eligible for full benefits
 if (($employee->flags & HOURLY_FLAG) && ($employee->age > 65))
 ```
 oppure
-``` 
+```
 if ($employee->isEligibleForFullBenefits())
 ```
 in molti casi basta creare una funzione che descriva esattamente quello che si vorrebbe scrivere nel commento.
