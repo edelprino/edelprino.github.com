@@ -1,8 +1,8 @@
 name: "Ettore Delprino"
 description: "Climber. Developer. Minimalist"
-author: ""
+author: "Ettore Delprino"
 
-url: ""
+url: "http://edelprino.com"
 
 exclude: [README.md]
 paginate: 10
