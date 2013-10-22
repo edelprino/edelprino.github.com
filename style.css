@@ -53,7 +53,7 @@ h1 a { color: #333;}
 .mb { margin-bottom: 64px; }
 
 .post { margin-bottom: 96px; }
-.post img { max-width: 100%; display: block; }
+.post img { max-width: 100%; display: block; margin: auto; }
 .post p { text-align: justify; }
 
 .center { text-align: center; }
