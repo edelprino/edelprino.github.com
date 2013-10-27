@@ -52,9 +52,9 @@ h1 a { color: #333;}
 .m-0 { margin: 0; }
 .mb { margin-bottom: 64px; }
 
-.post { margin-bottom: 96px; }
 .post img { max-width: 100%; display: block; margin: auto; }
 .post p { text-align: justify; }
+p.small.gray{ text-align: right; }
 
 .center { text-align: center; }
 .fl { float: left; }
