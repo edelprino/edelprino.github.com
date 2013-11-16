@@ -11,4 +11,4 @@ Sono sempre stato una persona con molti pensieri per la testa e ho sempre avuto 
 
 Un giorno mi sono detto, "ci saranno altre persone che avranno il mio stesso problema, chissà e se l'avranno risolto".
 
-Così
+Così ho iniziato a cercare su internet e sono uscite un sacco di cose, [la Tecnica del Pomodoro](http://pomodorotechnique.com), [Getting Things Done](http://en.wikipedia.org/wiki/Getting_Things_Done), [InboxZero](http://inboxzero.com), insomma, un sacco di metodi.
