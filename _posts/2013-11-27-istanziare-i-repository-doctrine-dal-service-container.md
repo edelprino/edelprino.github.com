@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 Nella documentazione ufficiale di Doctrine e Symfony2 si legge che per poter ottenere il Repository di un'Entità o un Documento è necessario chiamare il metodo _getRepository_ sull'_ObjectManager_.
@@ -33,12 +33,3 @@ acme_bundle.models.repository:
             - "AcmeBundle:ModelloProva"
 ```
 That's all! Enjoy! ;)
-
-
-
-
-
-
-
-
-
