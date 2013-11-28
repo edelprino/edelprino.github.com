@@ -22,6 +22,7 @@ acme_bundle.models.repository:
         arguments:
             - "AcmeBundle:ModelloProva"
 ```
+
 In questo caso verrà istanziato un _EntityRepository_ standard per l'entità _ModelloProva_ dell'_AcmeBundle_.
 
 Se però avessimo necessità di ricerce particolari possiamo estendere la classe base EntityRepository come spiegato nella [guida ufficiale](http://symfony.com/doc/current/book/doctrine.html#custom-repository-classes), basterà poi utilizzare lo stesso codice cambiando però il parametro `class`.
@@ -34,4 +35,5 @@ acme_bundle.models.repository:
         arguments:
             - "AcmeBundle:ModelloProva"
 ```
+
 That's all! Enjoy! ;)
