@@ -1,5 +1,7 @@
 ---
 published: true
+title: Istanziare i Repository Doctrine dal Service Container
+layout: post
 ---
 
 Nella documentazione ufficiale di Doctrine e Symfony2 si legge che per poter ottenere il Repository di un'Entità o un Documento è necessario chiamare il metodo _getRepository_ sull'_ObjectManager_.
