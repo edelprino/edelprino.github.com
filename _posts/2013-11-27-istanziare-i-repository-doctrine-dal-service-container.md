@@ -8,7 +8,7 @@ Nella documentazione ufficiale di Doctrine e Symfony2 si legge che per poter ott
 
 L'ObjectManager (EntityManager o DocumentManager) attraverso il RepositoryFactory creerà e restituirà un oggetto di tipo ObjectRepository.
 
-Che succede però se volessimo utilizzare un Repository dentro un nostro servizio? Iniettare l'ObjectManager renderebbe il codice difficilmente testabile siccome dovremmo "mockare" l'ObjectManager e il metodo getRepository e poi, ovviamente, il nostro Repository.
+Che succede però se volessimo utilizzare un Repository dentro un nostro servizio? Iniettare l'ObjectManager renderebbe il codice difficilmente testabile siccome dovremmo "mockare" l'ObjectManager e e poi, ovviamente, il nostro Repository.
 
 Una soluzione più semplice e facilmente implementabile è quella di far instanziare i Repository direttamente dal service container in modo da renderli in tutto e per tutto dei servizi facilmente iniettabili in altre classi e qiundi disaccoppiando maggiormente il codice.
 
@@ -22,7 +22,7 @@ Basterà inserire nel `services.yml` il seguente codice:
             - "AcmeBundle:ModelloProva"
 ```
 
-In questo caso verrà istanziato un EntityRepository standard per l'entità ModelloProva dell'AcmeBundle.
+In questo caso verrà istanziato un EntityRepository per l'entità ModelloProva dell'AcmeBundle.
 
 Se però avessimo necessità di ricerce particolari possiamo estendere la classe base EntityRepository come spiegato nella [guida ufficiale](http://symfony.com/doc/current/book/doctrine.html#custom-repository-classes), basterà poi utilizzare lo stesso codice cambiando però il parametro `class`.
 
