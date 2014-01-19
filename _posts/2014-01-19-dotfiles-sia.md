@@ -16,7 +16,7 @@ In questo ultimo anno di migrazione verso il terminale ho trovato molto utile av
 
 Attualmente, ma non è detto che rimarrà così, utilizzo una combinazione di vim, bash e tmux. Vim come editor di testo e IDE per lo sviluppo. Sono passato a Tmux prevalentemente per avere la barra di stato a fondo schermo in cui posso inserire le informazioni più importanti da tenere sott'occhio ora, batteria e stato del pomodoro.
 
-Sono testati solo sotto OSX e non con la versione di bash fornita di default che non ha il supporto all'unicode. Ma con la versione 4.2 installata tramite bower.
+Sono testati solo sotto OSX. Non con la versione di bash fornita di default, che non ha il supporto all'unicode, ma con la versione 4.2 installata tramite bower.
 
 Link del repository : [https://github.com/edelprino/Dotfiles](https://github.com/edelprino/Dotfiles)
 
