@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dotfiles sia!
+title: "Dotfiles sia!"
 published: true
 ---
 
