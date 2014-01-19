@@ -14,24 +14,26 @@ Una soluzione più semplice e facilmente implementabile è quella di far instanz
 
 Basterà inserire nel `services.yml` il seguente codice:
 
-```acme_bundle.models.repository:
-        class: Doctrine\ORM\EntityRepository
-        factory_service: doctrine.orm.entity_manager
-        factory_method:  getRepository
-        arguments:
-            - "AcmeBundle:ModelloProva"
+```
+acme_bundle.models.repository:
+    class: Doctrine\ORM\EntityRepository
+    factory_service: doctrine.orm.entity_manager
+    factory_method:  getRepository
+    arguments:
+        - "AcmeBundle:ModelloProva"
 ```
 
 In questo caso verrà istanziato un EntityRepository per l'entità ModelloProva dell'AcmeBundle.
 
 Se però avessimo necessità di ricerce particolari possiamo estendere la classe base EntityRepository come spiegato nella [guida ufficiale](http://symfony.com/doc/current/book/doctrine.html#custom-repository-classes), basterà poi utilizzare lo stesso codice cambiando però il parametro `class`.
 
-```acme_bundle.models.repository:
-        class: AcmeBundle\Repository\ModelloProvaRepository
-        factory_service: doctrine.orm.entity_manager
-        factory_method:  getRepository
-        arguments:
-            - "AcmeBundle:ModelloProva"
+```
+acme_bundle.models.repository:
+    class: AcmeBundle\Repository\ModelloProvaRepository
+    factory_service: doctrine.orm.entity_manager
+    factory_method:  getRepository
+    arguments:
+        - "AcmeBundle:ModelloProva"
 ```
 
 That's all! Enjoy! ;)
