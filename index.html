@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% for post in paginator.posts %}
-{% unless post.draft %}
+{% unless post.draft or post.layout == 'page' %}
 <article class="post">
   <h1 class=""><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h1>
   {{ post.excerpt }}
