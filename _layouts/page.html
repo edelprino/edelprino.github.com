@@ -1,0 +1,9 @@
+{% include _head.html %}
+{% include _header.html %}
+<main>
+<article class="post">
+  <h1 class=""><a href="{{ site.url }}{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h1>
+  {{ content }}
+</article>
+</main>
+{% include _footer.html %}
