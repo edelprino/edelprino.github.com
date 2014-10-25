@@ -1,9 +1,0 @@
-name: "Ettore Delprino"
-description: "Developer. Climber. Minimalist"
-author: "Ettore Delprino"
-
-url: "http://edelprino.com"
-
-exclude: [README.md]
-paginate: 10
-permalink: /:title
