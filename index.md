@@ -7,17 +7,15 @@ layout: page
 ---
 Mi piace definirmi un _nerd di professione_.
 
-Per la maggior parte del tempo scrivo codice, o cerco di scrivere codice, seguendo i [principi Agili](https://agilemanifesto.org/) nel tempo restante mi divido tra arrampicata sportiva e subaquea.
-
-Sono un remote worker genovese dal 2016
+Sono un remote worker genovese dal 2016, per la maggior parte del tempo scrivo codice, o cerco di scrivere codice seguendo i [Principi Agili](https://agilemanifesto.org/) e nel tempo restante mi divido tra arrampicata sportiva e subaquea.
 
 # Nerd di professione
-Ho scritto la mia prima riga di codice ormai nel (lontano) 2006 con VB6. Attualmente sviluppo in diversi linguaggi di programmazione, prevalentemene PHP ma anche Java, Ruby, JS, Python ed Elixir. Non ho un linguaggio preferito, penso che un bravo programmatore, con la dovuta esperienze, sia in grado di produrre ottimo codice anche con il peggiore dei linguaggi a meno del Javascript, con quello è impossibile (scherzo eh).
+Ho scritto la mia prima riga di codice ormai nel (lontano) 2006 con VB6. Attualmente sviluppo in diversi linguaggi di programmazione, prevalentemene PHP ma anche Java, Ruby, JS, Python ed Elixir. Non ho un linguaggio preferito, penso che un bravo programmatore, con la dovuta esperienze, sia in grado di produrre ottimo codice anche con il peggiore dei linguaggi. A meno del Javascript, con quello è impossibile (scherzo eh).
 
-Attualmente lavoro come consulente per [Flowing](http://flowing.it) e cerco quotidianamente di far passare il test che fallisce prima di rifattorizzare il codice. In Flowing cerchiamo di portare valore ogni giorno, cercando di guidare i clienti a scelte consapevoli applicando quelli che sono i pricipi agile per lo sviluppo del software.
+Attualmente lavoro come consulente per [Flowing](http://flowing.it) e cerco quotidianamente di far passare il test che fallisce prima di rifattorizzare il codice :D. In Flowing cerchiamo di utilizzare le metodoligie agili per portare più valore possibile ai clienti.
 
 # Arrampica-cose
-Mi sono avvicinato all'arrampicata sportiva per gioco intorno al 2005. Prima con gli amici per passare giornate in compagnia poi è passato da essere un semplice passatempo ad un verio e proprio sport. Ho fatto vie fino all'8a lavorato e 7b a vista. 
+Mi sono avvicinato all'arrampicata sportiva per gioco intorno al 2005, per passare giornate in compagnia con amici facendo qualcosa di diverso. Poi, piano piano, è passato da essere un semplice passatempo ad un verio e proprio sport/hobby. Ho iniziato ad allenarmi in maniera costante, con metodo, sperimentando varie soluzioni/metodologie. Ad oggi ho fatto vie fino all'8a lavorato e 7b a vista nell'arrampicata sportiva.
 
 Non mi sono mai reputato particolarmente portato per questo sport però la passione e la costanza ma soprattutto la passione (:D) mi hanno aiutato parecchio. Come si diceva per il calabrone, Ettore, per la fisica non potrebbe scalare ma lui non lo sa e scala lo stesso.
 
