@@ -3,11 +3,14 @@
 
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
-// body, p, ul, li, a, h1, h2, h3, h4, h5, h6
-// {
-//   font-family: 'Merriweather', serif;
-// }
+body, p, ul, li, a, h1, h2, h3, h4, h5, h6
+{
+  // font-family: 'Merriweather', serif;
+  font-family: 'Open Sans', sans-serif;
+  color: #555;
+}
 
 p img {
   margin: 20px auto;

@@ -5,6 +5,9 @@
 # layout: home
 layout: page
 ---
+
+![My helpful screenshot](/assets/millenium.jpg)
+
 Mi piace definirmi un _nerd di professione_.
 
 Sono un remote worker genovese dal 2016, per la maggior parte del tempo scrivo codice, o cerco di scrivere codice seguendo i [Principi Agili](https://agilemanifesto.org/) e nel tempo restante mi divido tra arrampicata sportiva e subaquea.
