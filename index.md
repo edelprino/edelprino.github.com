@@ -10,7 +10,7 @@ layout: page
 
 Mi piace definirmi un _nerd di professione_.
 
-Sono un remote worker genovese dal 2016, per la maggior parte del tempo scrivo codice, o cerco di scrivere codice seguendo i [Principi Agili](https://agilemanifesto.org/) e nel tempo restante mi divido tra arrampicata sportiva e subaquea.
+Sono un remote worker genovese dal 2016, per la maggior parte del tempo scrivo codice, o cerco di scrivere codice seguendo i [Principi Agili](https://agilemanifesto.org/) e nel tempo restante mi divido tra arrampicata sportiva e subacquea.
 
 # Nerd di professione
 Ho scritto la mia prima riga di codice ormai nel (lontano) 2006 con VB6. Attualmente sviluppo in diversi linguaggi di programmazione, prevalentemene PHP ma anche Java, Ruby, JS, Python ed Elixir. Non ho un linguaggio preferito, penso che un bravo programmatore, con la dovuta esperienze, sia in grado di produrre ottimo codice anche con il peggiore dei linguaggi. A meno del Javascript, con quello è impossibile (scherzo eh).
