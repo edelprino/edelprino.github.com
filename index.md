@@ -1,6 +1,7 @@
 ---
 # layout: home
 layout: page
+title: Home
 ---
 
 ![My helpful screenshot](/assets/millenium.jpg)
