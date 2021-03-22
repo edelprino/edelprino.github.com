@@ -1,30 +1,25 @@
 ---
 # layout: home
 layout: page
-title: Home
+title: Chi sono?
 ---
 
-![My helpful screenshot](/assets/millenium.jpg)
+![Millenium Cave - Climbing Millenium 7a](/assets/millenium.jpg)
 
-Mi piace definirmi un _nerd di professione_.
+# Developer
+Ho scritto la mia prima riga di codice ormai nel (lontano) 2006 con VB6. Attualmente sviluppo in diversi linguaggi di programmazione, prevalentemene PHP ma anche Java, Ruby, Javascript, Python ed Go. Non ho un linguaggio preferito, penso che un bravo programmatore, con la dovuta esperienze, sia in grado di produrre ottimo codice anche con il "peggiore" dei linguaggi.
 
-Sono un remote worker genovese dal 2016, per la maggior parte del tempo scrivo codice, o cerco di scrivere codice seguendo i [Principi Agili](https://agilemanifesto.org/) e nel tempo restante mi divido tra arrampicata sportiva e subacquea.
+Attualmente lavoro come consulente per [Flowing](http://flowing.it), aiuto i team e le aziende a portare avanti progetti software complessi. Amo scoprire nuovi domini, capire come funzionano e cercare di rappresentarli al meglio tramite tramite codice.
 
-# Nerd di professione
-Ho scritto la mia prima riga di codice ormai nel (lontano) 2006 con VB6. Attualmente sviluppo in diversi linguaggi di programmazione, prevalentemene PHP ma anche Java, Ruby, JS, Python ed Elixir. Non ho un linguaggio preferito, penso che un bravo programmatore, con la dovuta esperienze, sia in grado di produrre ottimo codice anche con il peggiore dei linguaggi. A meno del Javascript, con quello è impossibile (scherzo eh).
-
-Attualmente lavoro come consulente per [Flowing](http://flowing.it) e cerco quotidianamente di far passare il test che fallisce prima di rifattorizzare il codice :D. In Flowing cerchiamo di utilizzare le metodoligie agili per portare più valore possibile ai clienti.
-
-# Arrampica-cose
-Mi sono avvicinato all'arrampicata sportiva per gioco intorno al 2005, per passare giornate in compagnia con amici facendo qualcosa di diverso. Poi, piano piano, è passato da essere un semplice passatempo ad un verio e proprio sport/hobby. Ho iniziato ad allenarmi in maniera costante, con metodo, sperimentando varie soluzioni/metodologie. Ad oggi ho fatto vie fino all'8a lavorato e 7b a vista.
+# Climber
+Mi sono avvicinato all'arrampicata sportiva per gioco intorno al 2005 all'età di 16 anni. All'inzio era un passatempo per passare giornate in compagnia con amici facendo qualcosa di diverso. Poi, piano piano, è passato da essere un semplice hobby ad un verio e proprio sport. Ho iniziato ad allenarmi in maniera costante, con metodo, sperimentando varie soluzioni/metodologie. Ad oggi ho fatto vie fino all'8a lavorato e 7b a vista.
 
 Non mi sono mai reputato particolarmente portato per questo sport però la passione e la costanza ma soprattutto la passione (:D) mi hanno aiutato parecchio. Come si diceva per il calabrone, Ettore, per la fisica non potrebbe scalare ma lui non lo sa e scala lo stesso.
 
-# Immergi-cose
+# Scuba Diver
 Amo vivere in maniera attiva la natura, non sono uno da spiaggia, cocktails e sdraio, o almeno, non per la maggior parte del tempo. Da qualche anno mi sono avvicinato alla subacquea. Vivendo a Genova ho la fortuna di avere il [parco di portofino](http://www.portofinoamp.it/subacquea/i-siti-di-immersione-dellarea-marina-protetta) a 11 miglia marine (~20km), uno tra i più bei siti in Italia, e poi, vogliamo parlare della focaccia dopo?
 
 Ho all'attivo ad oggi una quarantina di immersioni immersioni fino a -40mt e i seguenti brevetti:
 - PADI Advanced Open Water
 - PADI Deep Diver
 - PADI Enriched Air Diver
-- PADI Wreck Diver
