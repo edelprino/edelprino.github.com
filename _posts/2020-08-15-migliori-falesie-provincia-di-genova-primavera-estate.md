@@ -6,6 +6,8 @@ date:   2020-05-08
 
 Nel genovesato esistono molte più falesie di quello che si possa credere, molte sono nascoste tra le pieghe dell’appennino, altre si trovano in riva al mare. Quest’ultime sono le migliori per concedersi una mattinata di scalata seguita da un bellissimo tuffo in mare per rilassare i muscoli e tonificare il corpo.
 
+![Mannara Climbing](/assets/mannara-climbing.jpeg)
+
 Qui potete trovare un elenco delle migliori falesie per questa stagione:
 
 # Levante Ligure
@@ -63,7 +65,7 @@ Pietragrande è la palestrina all'aperto di molti genovesi. Falesia storica situ
 - Località: Geo
 - Avvicinamento: 15 minuti dal parcheggio
 
-# Lautra
+## Lautra
 La falesia di Lautra si trova a S.Desiderio, a 10 minuti di macchina dal centro città. Sono presenti una decina di tiri, altri sono ancora da chiodare o da liberare siccome è una novità dell'ultimo periodo.
 
 - Vie dal 6a a 7b
@@ -71,7 +73,7 @@ La falesia di Lautra si trova a S.Desiderio, a 10 minuti di macchina dal centro 
 - Località: S.Desiderio
 - Avvicinamento: 10 minuti dal parcheggio
 
-# La terrazza
+## La terrazza
 La terrazza è una falesia situata alle spalle di Isola del Cantone. La roccia è conglomerato e i tiri sono prevalentemente boulderosi. La base non è comodissima ma alcuni tiri sono veramente interessanti e sfidanti!
 
 - Vie dal 6a all'8a+
