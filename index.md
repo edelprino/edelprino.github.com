@@ -1,5 +1,5 @@
 ---
-# layout: home
+layout: home
 layout: page
 title: Chi sono?
 ---

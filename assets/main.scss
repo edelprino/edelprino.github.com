@@ -26,6 +26,11 @@ article > h1, article > h2, article > h3 {
   max-width: calc(900px - (30px * 2));
 }
 
-a:active {
-  color: red
+.align-left {
+  float: left;
+  padding-right: 10px;
+}
+
+a {
+  text-decoration: underline;
 }

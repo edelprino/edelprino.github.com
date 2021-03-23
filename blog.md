@@ -1,5 +1,5 @@
 ---
 layout: home
-title:  Blog
-published: false
+title:  Articoli
+published: true
 ---
