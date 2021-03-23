@@ -45,6 +45,8 @@ Nascio è una piccola falesia nascosta nei meandri della Val Graveglia. Il posto
 - Località: Nascio
 - Avvicinamento: 10 minuti dal parcheggio
 
+Se sei interessato, su Nasico [ho scritto un articolo]({% post_url 2020-08-15-scalare-in-val-graveglia-nascio %}) con un sacco di informazioni in più sul posto e sulla falesia!
+
 ## Val D’Aveto
 
 ### Farfablocco

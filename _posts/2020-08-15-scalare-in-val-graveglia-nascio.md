@@ -8,10 +8,9 @@ date:   2020-05-15
 
 La Rocca di Nascio è una falesietta in diaspro con una decina di tiri situata nella valle di fronte al caratteristico paese. Per arrivare alla base delle vie bisogna attraversare [uno stupendo ponte ad arcata unica](http://www.culturainliguria.it/cultura/it/Temi/Luoghivisita/architetture.do;jsessionid=6421A4C4A1BA26CF7B04B0F8C440DBB6.node2?contentId=28871&localita=&area=) costruito nel XVII secolo.
 
+![Nahuel Santamaria su Piccu e Pala](/assets/posts/nascio-nahuel.jpeg){: .align-left}
 
 [Nascio e la vicina Cassagna](http://www.laliguriaracconta.it/2015/11/17/valgraveglia-nascio-e-cassagna-un-viaggio-di-milioni-di-anni-al-centro-della-terra/) sono due paesini molto caratteristici. Il primo è di origine medioevale. Il secondo è un villaggio di minatori successivamente abbandonato ma adesso portato nuovamente ai vecchi splendori.
-
-![Nahuel Santamaria su Piccu e Pala](/assets/posts/nascio-nahuel.jpeg){: .align-left}
 
 La Val Graveglia è stata per molto tempo uno dei principali estrattori di manganese a livello europeo difatti in tutta la valle si possono ancora vedere vecchi impianti di estrazioni abbandonati. A non molti chilometri da Nascio e Cassagna ci sono infatti [le miniere di Gambatesa](http://minieradigambatesa.com/). La più grande miniera di manganese d'Europa.
 
