@@ -2,11 +2,12 @@
 layout: post
 title: "Scalare in Val Graveglia: Nascio"
 date:   2020-05-15
+image: /assets/posts/nascio-nahuel.jpeg
 ---
+La Rocca di Nascio è una falesietta in diaspro con una decina di tiri situata nella valle di fronte al caratteristico paese. Per arrivare alla base delle vie bisogna attraversare [uno stupendo ponte ad arcata unica](http://www.culturainliguria.it/cultura/it/Temi/Luoghivisita/architetture.do;jsessionid=6421A4C4A1BA26CF7B04B0F8C440DBB6.node2?contentId=28871&localita=&area=) costruito nel XVII secolo.
+
 
 ![Nascio](/assets/posts/nascio-falesia.jpeg)
-
-La Rocca di Nascio è una falesietta in diaspro con una decina di tiri situata nella valle di fronte al caratteristico paese. Per arrivare alla base delle vie bisogna attraversare [uno stupendo ponte ad arcata unica](http://www.culturainliguria.it/cultura/it/Temi/Luoghivisita/architetture.do;jsessionid=6421A4C4A1BA26CF7B04B0F8C440DBB6.node2?contentId=28871&localita=&area=) costruito nel XVII secolo.
 
 ![Nahuel Santamaria su Piccu e Pala](/assets/posts/nascio-nahuel.jpeg){: .align-left}
 

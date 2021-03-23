@@ -2,6 +2,7 @@
 layout: post
 title:  Le migliori falesie in provincia di Genova, stagione primavera/estate
 date:   2020-05-08
+image: /assets/posts/mannara-climbing.jpeg
 ---
 
 Nel genovesato esistono molte più falesie di quello che si possa credere, molte sono nascoste tra le pieghe dell’appennino, altre si trovano in riva al mare. Quest’ultime sono le migliori per concedersi una mattinata di scalata seguita da un bellissimo tuffo in mare per rilassare i muscoli e tonificare il corpo.
