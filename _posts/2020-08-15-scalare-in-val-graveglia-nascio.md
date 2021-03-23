@@ -22,13 +22,13 @@ _Nu me ghe isu_, dal genovese, non mi ci alzo, è il tiro più duro della falesi
 
 Il periodo migliore per scalare a Nascio va da Maggio a Ottobre, il sole arriva dopo le 15 e sulle vie facili anche più tardi. La roccia è un diaspro simile a quello della Sfinge di Deiva Marina. Gli itenerari sono tutti chiodati con fix resinati e i tiri più lunghi arrivano ad una ventina di metri.
 
-# Come arrivare
+## Come arrivare
 
 Per arrivare a Nascio bisogna uscire al casello autostradale di Lavagna e percorrere la strada che porta a Ne, per poi continuare in direzione Statale fino a quando non si incontra la deviazione per Nascio/Cassagna. Dal casello autostradale sono circa 20 minuti di auto fino al parcheggio. [Qui il link alla posizione su Google Maps del parcheggio](https://goo.gl/maps/YyeCUJ2eKZtZ9QEW6).
 
 Parcheggiato, dalla macchina si torna indietro per la strada asfaltata una ventina di metri, si attraversa il ponte pedonale del XVII secolo e si prende il sentiero in salita. Dopo una ventina di metri parte una traccia che scende per il pendio sulla sinistra costeggiando una parete ricoperta di rampicanti. In fondo potrete già intravedere la base della falesia. 10 minuti circa dalla macchina.
 
-# Vie
+## Vie
 
 | Nome | Grado | Altezza |
 |-------|--------|---|
@@ -43,9 +43,9 @@ Parcheggiato, dalla macchina si torna indietro per la strada asfaltata una venti
 | Dilu | 5c | 20m |
 | Falu | 6a | 20m |
 
-Per maggiori informazioni sulla falesia e sulle vie:
-- http://www.arrampicate.it/nascio/
-- https://www.climbook.com/falesie/7231-nascio-la-rocca/vie
+### Per maggiori informazioni
+- <http://www.arrampicate.it/nascio/>
+- <https://www.climbook.com/falesie/7231-nascio-la-rocca/vie>
 
-Foto di:
-- https://passeggiareinliguria.it/2019/06/19/ponte-nascio-cassagna/ponte-e-monte-bocco/
+### Photo Credits
+- <https://passeggiareinliguria.it/2019/06/19/ponte-nascio-cassagna/ponte-e-monte-bocco/>

@@ -18,12 +18,21 @@ p img {
   display: block;
 }
 
-article > h1, article > h2, article > h3 {
+.post-title {
+  line-height: 60px;
+}
+
+.post-meta {
   text-align: center;
 }
 
+article h1, article h2, article h3 {
+  text-align: center;
+  padding-top: 20px;
+}
+
 .wrapper {
-  max-width: calc(900px - (30px * 2));
+  max-width: calc(950px - (30px * 2));
 }
 
 .align-left {
