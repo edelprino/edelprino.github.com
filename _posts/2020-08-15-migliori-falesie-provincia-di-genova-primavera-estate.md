@@ -13,7 +13,7 @@ Qui potete trovare un elenco delle migliori falesie per questa stagione:
 
 ## Levante Ligure
 
-### Sant'Anna
+### [Sant'Anna](https://www.climbook.com/falesie/7221-sant-anna-classica/vie)
 La scalata è su arenaria, prevalentemente verticale o in alcuni punti leggermente strapiombante. La falesia è sul mare, quindi non è consigliata se il mare è grosso perché la base potrebbe essere raggiunta dalle onde.
 Lo sapevate, inoltre, che ci sono due vie di Deep Water Soloing di 6b e 6c/6c+ proprio vicino alla falesia?
 
@@ -22,7 +22,7 @@ Lo sapevate, inoltre, che ci sono due vie di Deep Water Soloing di 6b e 6c/6c+ p
 - Località: Sestri Levante
 - Avvicinamento: 10 minuti dal parcheggio
 
-### Ghiffi
+### [Ghiffi](https://www.climbook.com/falesie/7281-montemoggio-passo-del-ghiffi-ciapun-lisciou/vie)
 Il ghiffi è una placca appoggiata, si scala in spalmo e la tecnica la fa da padrone. Ci sono parecchie vie semplici, per iniziare, e tre tiri veramente interessanti che potrebbero mettere in crisi molti climber navigati.
 
 - Vie dal 5a al 7b
@@ -30,7 +30,7 @@ Il ghiffi è una placca appoggiata, si scala in spalmo e la tecnica la fa da pad
 - Località: Passo del Ghiffi, Montemoggio
 - Avvicinamento: 20 minuti dal parcheggio
 
-### Sopralacroce
+### [Sopralacroce](https://www.climbook.com/falesie?q=Sopralacroce)
 La falesietta di Sopralacroce ha una scalata tecnica e mai banale, anche i tirelli più facili possono riservare molte sorprese.
 
 - Vie dal 4c al 7a/b
@@ -38,7 +38,7 @@ La falesietta di Sopralacroce ha una scalata tecnica e mai banale, anche i tirel
 - Località: Sopralacroce
 - Avvicinamento: 15 minuti dal parcheggio
 
-### Nascio
+### [Nascio]({% post_url 2020-08-15-scalare-in-val-graveglia-nascio %})
 Nascio è una piccola falesia nascosta nei meandri della Val Graveglia. Il posto è isolato e incantevole, il paese di Nascio e quello di Cassagna sono due piccoli gioielli dell'entroterra. Le prime tre vie sono in placca mentre le restanti hanno un partenza boulderosa in strapiombo. Le difficoltà sono concentrate prevalentemente nei primi tre/quattro metri di via.
 
 - Vie dal 5a al 7b
@@ -50,7 +50,7 @@ Se sei interessato, su Nasico [ho scritto un articolo]({% post_url 2020-08-15-sc
 
 ## Val D’Aveto
 
-### Farfablocco
+### [Farfablocco](https://www.arrampicate.it/farfablocco/)
 Il farfablocco è una piccola falesietta situata a bordo strada tra il p.so della Forcella e Santo Stefano d'Aveto.
 
 - Vie dal 2a al 7a
@@ -60,7 +60,7 @@ Il farfablocco è una piccola falesietta situata a bordo strada tra il p.so dell
 
 ## Genova e dintorni
 
-### Pietragrande
+### [Pietragrande](https://www.climbook.com/falesie?utf8=%E2%9C%93&q=Pietragrande&commit=Cerca)
 Pietragrande è la palestrina all'aperto di molti genovesi. Falesia storica situata a pochi minuti di macchina da Bolzaneto.
 
 - Vie dal 4c al 7a
@@ -76,7 +76,7 @@ La falesia di Lautra si trova a S.Desiderio, a 10 minuti di macchina dal centro 
 - Località: S.Desiderio
 - Avvicinamento: 10 minuti dal parcheggio
 
-### La terrazza
+### [La terrazza](https://www.planetmountain.com/rock/falesie/settore.html?idfalesia=268&idsettore=1)
 La terrazza è una falesia situata alle spalle di Isola del Cantone. La roccia è conglomerato e i tiri sono prevalentemente boulderosi. La base non è comodissima ma alcuni tiri sono veramente interessanti e sfidanti!
 
 - Vie dal 6a all'8a+
