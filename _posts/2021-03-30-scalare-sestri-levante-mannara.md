@@ -30,18 +30,17 @@ Dopo una ventina di minuti di cammino, arriverete ad un casotto/rifugio. Scender
 
 ![Mannara Vie](/assets/posts/mannara-topo.jpg){: .align-left}
 
-|| Nome | Grado | Altezza |
+|Nr| Nome | Grado | Altezza |
 |--|-------|--------|---|
-|1| Mitocondri | 6b+ | 20m |
-|2| Apocalische | 7a+ | 20m |
-|3| Te tiene | 7b+ | 20m |
+|1| Mitocondri | 6b+ | 18m |
+|2| Apocalische | 7a+ | 18m |
+|3| Te tiene | 7b+ | 18m |
 |4| Hardware | 7b | 20m |
 |5| Software | 7a | 20m |
-|WIP| Malware | (vedi sotto) | 20m |
+|WIP| Malware | (vedi sotto) | 22m |
 |6| Mannara | 8a | 20m |
-|7| Parsimonia | 7b+ | 20m |
-|8| Disagio | 6a+ | 20m |
-
+|7| Parsimonia | 7b+ | 18m |
+|8| Disagio | 6a+ | 15m |
 
 **N.B.** Malware è ancora in lavorazione, il tiro è chiodato ma devono essere consolidate alcune prese prima di poterlo provare. Vi consiglio, pur essendoci i rinvii, di evitare di scalarci che poi se si staccano le poche prese che già ci sono non lo salgo mai più 😂
 
