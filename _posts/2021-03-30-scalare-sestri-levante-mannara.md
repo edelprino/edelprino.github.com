@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Scalare a Sestri Levante: Mannara"
-date:   2021-03-20
+date:   2021-03-25
 image: /assets/posts/mannara-me.jpeg
 ---
 La Mannara è una falesia nata per gioco tra il 2012 e il 2016. Fin da subito si è rivelata una falesia dalla roccia esigente. Le vie sono tutte intorno ai venti metri e richiedono una buona dose di _forza resistente_.
 La scalata è molto tecnica, tutti i tiri presentano almeno uno o due passi non banali e da risolvere in modi sempre molto interessanti.
 
-Il posto è incredibile, in inverno, nelle giornate di sole, è possibile scalare in maniche corte e pantaloncini mentre nelle giornate terse si riesce a vedere la Corsica. In estste, appena arriva il sole, verso mezzogiorno, diventa un forno! Prima si riesce a scalare anche se le condizioni non sono le migliori.
+Il posto è incredibile, in inverno, nelle giornate di sole, è possibile scalare in maniche corte e pantaloncini mentre nelle giornate terse si riesce a vedere la Corsica. In estate, appena arriva il sole verso mezzogiorno, diventa un forno! Prima si riesce a scalare anche se le condizioni non sono le migliori. [Però ci sono un sacco di altre falesie interessanti!]({% post_url 2020-08-15-migliori-falesie-provincia-di-genova-primavera-estate %})
 
 ![Mannara Climbing](/assets/posts/mannara-me.jpeg)
 
