@@ -5,7 +5,9 @@ date:   2021-03-20
 image: /assets/posts/mannara-me.jpeg
 ---
 La Mannara è una falesia nata per gioco tra il 2012 e il 2016. Fin da subito si è rivelata una falesia dalla roccia esigente. Le vie sono tutte intorno ai venti metri e richiedono una buona dose di _forza resistente_.
-La scalata è molto tecnica, tutti i tiri presentano almeno uno o due passi non banali e da risolvere in modi sempre molto interessanti. Il posto è incredibile, in inverno, nelle giornate di sole, è possibile scalare in maniche corte e pantaloncini mentre nelle giornate terse si riesce a vedere la Corsica. D'estste appena arriva il sole, mezzogiorno, diventa un forno, però prima si riesce a scalare anche se non è la sua stagione migliore.
+La scalata è molto tecnica, tutti i tiri presentano almeno uno o due passi non banali e da risolvere in modi sempre molto interessanti.
+
+Il posto è incredibile, in inverno, nelle giornate di sole, è possibile scalare in maniche corte e pantaloncini mentre nelle giornate terse si riesce a vedere la Corsica. In estste, appena arriva il sole, verso mezzogiorno, diventa un forno! Prima si riesce a scalare anche se le condizioni non sono le migliori.
 
 ![Mannara Climbing](/assets/posts/mannara-me.jpeg)
 
@@ -43,7 +45,7 @@ Dopo una ventina di minuti di cammino, arriverete ad un casotto/rifugio. Scender
 
 **N.B.** Malware è ancora in lavorazione, il tiro è chiodato ma devono essere consolidate alcune prese prima di poterlo provare. Vi consiglio, pur essendoci i rinvii, di evitare di scalarci che poi se si staccano le poche prese che già ci sono non lo salgo mai più 😂
 
-Secondo me le vie più belle sono Mitocondri e Apocalische ma sicuramente Software è il primo 7 che proverei in questa falesia! La roccia è solida e dove non lo era ho aggiunto una buona dose di resina. Il casco per l'assicuratore, in generale, è raccomandato! Magari qualche piccolo appoggio, un po' fuori linea, potrebbe staccarsi!
+Secondo me le vie più belle sono Mitocondri e Apocalische ma sicuramente Software è il primo 7 che proverei in questa falesia! La roccia è solida e dove non lo era ho aggiunto una buona dose di resina. Il casco per l'assicuratore, in generale, è raccomandato! Magari qualche piccola scaglietta, un po' fuori linea, potrebbe staccarsi!
 
 ### Ringraziamenti
 Un grandissimo ringraziamento va a tutti gli amici e ai compagni di scalata che nell'arco di questi anni mi hanno aiutato, supportato e sopportato! In special modo a Bracci, Roberta, Ginnico, Walls, Luca e Rota!
