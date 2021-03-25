@@ -3,6 +3,7 @@ layout: post
 title: "Scalare a Sestri Levante: Mannara"
 date:   2021-03-25
 image: /assets/posts/mannara-me.jpeg
+published: false
 ---
 La Mannara è una falesia nata per gioco tra il 2012 e il 2016. Fin da subito si è rivelata una falesia dalla roccia esigente. Le vie sono tutte intorno ai venti metri e richiedono una buona dose di _forza resistente_.
 La scalata è molto tecnica, tutti i tiri presentano almeno uno o due passi non banali e da risolvere in modi sempre molto interessanti.
