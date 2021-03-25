@@ -33,3 +33,5 @@ Citando Brian W. Kernighan and P. J. Plaugher:
 Quando sento la necessità di commentare il codice che ho appena scritto mi fermo e ragiono su come poterlo rendere più leggibile, estraendo metodi, scrivendo nomi di variabili più significative ed esplicite.
 
 Adesso, quando trovo del codice poco commentato o non commentato del tutto, mi arrabbio. Lo stesso. Mandando accidenti a colui che non ha avuto la decenza di scrivere del codice più leggibile.
+
+{% include contact-form.html %}

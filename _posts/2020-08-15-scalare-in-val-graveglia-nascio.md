@@ -49,3 +49,5 @@ Parcheggiato, dalla macchina si torna indietro per la strada asfaltata una venti
 
 ### Photo Credits
 - <https://passeggiareinliguria.it/2019/06/19/ponte-nascio-cassagna/ponte-e-monte-bocco/>
+
+{% include contact-form.html %}

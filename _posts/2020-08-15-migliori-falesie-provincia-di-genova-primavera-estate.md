@@ -83,3 +83,5 @@ La terrazza è una falesia situata alle spalle di Isola del Cantone. La roccia �
 - Esposizione: La falesia prende sole fino alle 13
 - Località: Pietrabissara
 - Avvicinamento: 10 minuti dal parcheggio
+
+{% include contact-form.html %}
