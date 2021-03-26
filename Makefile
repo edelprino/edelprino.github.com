@@ -1,5 +1,6 @@
 start:
 	docker-compose up -d 
+	make logs
 
 stop:
 	docker-compose down
