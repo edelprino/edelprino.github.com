@@ -11,7 +11,7 @@ Ho scritto la mia prima riga di codice ormai nel (lontano) 2006 con VB6. Attualm
 Attualmente lavoro come consulente per [Flowing](https://flowing.it), aiuto i team e le aziende a portare avanti progetti software [complessi](https://en.wikipedia.org/wiki/Cynefin_framework#Complex). Amo scoprire nuovi domini, capire come funzionano e cercare di rappresentarli al meglio tramite tramite codice.
 
 # Climber
-Mi sono avvicinato all'arrampicata sportiva per gioco intorno al 2005 all'età di 16 anni. All'inzio era un passatempo per passare giornate in compagnia con amici facendo qualcosa di diverso. Poi, piano piano, è passato da essere un semplice hobby ad un verio e proprio sport. Ho iniziato ad allenarmi in maniera costante, con metodo, sperimentando varie soluzioni/metodologie. Ad oggi ho fatto vie fino all'8a lavorato e 7b a vista.
+Mi sono avvicinato all'arrampicata sportiva per gioco intorno al 2005 all'età di 16 anni. All'inzio era un passatempo per passare giornate in compagnia con amici facendo qualcosa di diverso. Poi, piano piano, è passato da essere un semplice hobby ad un verio e proprio sport. Ho iniziato ad allenarmi in maniera costante, con metodo, sperimentando varie soluzioni/metodologie. Ad oggi ho fatto vie fino all'8a lavorato, 7b a vista e in totale più di un centinaio di grado 7.
 
 Non mi sono mai reputato particolarmente portato per questo sport però la passione e la costanza ma soprattutto la passione 🤣 mi hanno aiutato parecchio. [Come si diceva per il calabrone](https://it.wikipedia.org/wiki/Bombus#Il_volo), Ettore, per la fisica non potrebbe scalare ma lui non lo sa e scala lo stesso.
 
