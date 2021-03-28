@@ -7,8 +7,10 @@ image: /assets/posts/mannara-me.jpeg
 La Mannara è una falesia nata per gioco tra il 2012 e il 2016. Fin da subito si è rivelata una falesia dalla roccia esigente. Le vie sono tutte intorno ai venti metri e richiedono una buona dose di _forza resistente_.
 La scalata è molto tecnica, tutti i tiri presentano almeno uno o due passi non banali e da risolvere in modi sempre molto interessanti.
 
-Il posto è incredibile, in inverno, nelle giornate di sole, è possibile scalare in maniche corte e pantaloncini mentre nelle giornate terse si riesce a vedere la Corsica. In estate, appena arriva il sole verso mezzogiorno, diventa un forno! Prima si riesce a scalare anche se le condizioni non sono le migliori. Non preoccupartevi però perché ci sono [tanti altri posti interessanti per scalare nel periodo estivo!]({% post_url 2020-08-15-migliori-falesie-provincia-di-genova-primavera-estate %}).
-Se però il caldo non vi spaventa, nel pomeriggio potete sempre andare a farvi un bagno scendendo alla [Ciappa du Lu](https://passeggiareinliguria.it/2018/04/04/punta-manara/), ci vogliono circa 15/20 minuti!
+Il posto è incredibile, in inverno, nelle giornate di sole, è possibile scalare in maniche corte e pantaloncini mentre nelle giornate terse si riesce a vedere la Corsica. 
+
+In estate, appena arriva il sole verso mezzogiorno, diventa un forno! Prima si riesce ad arrampicare anche se le condizioni non sono le migliori. Ma non preoccupartevi perché ci sono [tanti altri posti interessanti per scalare nel periodo estivo!]({% post_url 2020-08-15-migliori-falesie-provincia-di-genova-primavera-estate %}).
+Se il caldo non vi spaventa, poi nel pomeriggio potete sempre andare a farvi un bagno scendendo alla [Ciappa du Lu](https://passeggiareinliguria.it/2018/04/04/punta-manara/), ci vogliono circa 15/20 minuti!
 
 ![Mannara Climbing](/assets/posts/mannara-me.jpeg)
 
