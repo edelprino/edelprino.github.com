@@ -7,11 +7,12 @@ image: /assets/posts/mannara-me.jpeg
 La Mannara è una falesia nata per gioco tra il 2012 e il 2016. Fin da subito si è rivelata una falesia dalla roccia esigente. Le vie sono tutte intorno ai venti metri e richiedono una buona dose di _forza resistente_.
 La scalata è molto tecnica, tutti i tiri presentano almeno uno o due passi non banali e da risolvere in modi sempre molto interessanti.
 
-Il posto è incredibile, in inverno, nelle giornate di sole, è possibile scalare in maniche corte e pantaloncini mentre nelle giornate terse si riesce a vedere la Corsica. In estate, appena arriva il sole verso mezzogiorno, diventa un forno! Prima si riesce a scalare anche se le condizioni non sono le migliori. [Però ci sono un sacco di altre falesie interessanti!]({% post_url 2020-08-15-migliori-falesie-provincia-di-genova-primavera-estate %})
+Il posto è incredibile, in inverno, nelle giornate di sole, è possibile scalare in maniche corte e pantaloncini mentre nelle giornate terse si riesce a vedere la Corsica. In estate, appena arriva il sole verso mezzogiorno, diventa un forno! Prima si riesce a scalare anche se le condizioni non sono le migliori. Non preoccupartevi però perché ci sono [tanti altri posti interessanti per scalare nel periodo estivo!]({% post_url 2020-08-15-migliori-falesie-provincia-di-genova-primavera-estate %}).
+Se però il caldo non vi spaventa, nel pomeriggio potete sempre andare a farvi un bagno scendendo alla [Ciappa du Lu](https://passeggiareinliguria.it/2018/04/04/punta-manara/), ci vogliono circa 15/20 minuti!
 
 ![Mannara Climbing](/assets/posts/mannara-me.jpeg)
 
-Questa falesia è nata, oltre che per gioco, anche per avere un _laboratorio_ di vie _difficili_ nel levante ligure. Un posto vicino casa per poter avere dei progetti a lungo termine senza dover, ogni volta, fare tanti km in macchina per andare a Finale, Albenga o al Muzzerone! In poche parole, predere bastonate a kilometro zero! 🤣
+Questa falesia è nata, oltre che per gioco, anche per avere un _laboratorio_ di vie _difficili_ nel levante ligure. Un posto vicino casa per poter avere dei progetti a lungo termine senza dover, ogni volta, fare tanti km in macchina per andare a Finale, Albenga o al Muzzerone! In poche parole, prendere bastonate a kilometro zero! 🤣
 
 È indiscutibile che la Mannara non sia comparabile a nessuna di questi posti come qualità della roccia, stiamo parlando di arenaria, non calcare. Sono però convinto che rimarrete ugualmente a bocca aperta, la scalata, l'ambiente e la vista, di certo, non hanno nulla a cui invidiare a posti più famosi o frequentati! Provare per credere!
 
@@ -53,8 +54,8 @@ Una menzione speciale però va a Daniele. Tutto questo è anche merito dell'enor
 
 ### Informazioni varie
 - Potete arrivare anche alla falesia partendo da Sestri Levante centro (5 minuti dalla stazione), prendendo il sentiero [che parte dal carruggio (Via XXV aprile)](https://goo.gl/maps/8V11sH3FssrK7VwN8) e raggiunge la cima in un'oretta di sentiero, per un dislivello di 110 metri circa. Molto bello! Ve lo consiglio se oltre alla falesia volete godervi una bella passeggiata sul mare!
-- Sulla cima di Punta Manara sono presenti i ruderi ancora ben conservati di una [torre di avistamento saracena del XVI secolo](https://it.wikipedia.org/wiki/Punta_Manara)
-- La falesia compare anche nel video promozionale del portale del turismo di Sestri Levante, dal minuto 1:19 all'1:25. Se non l'avete mai visto, guaratelo perché è bellissimo:
+- Sulla cima di Punta Manara sono presenti i ruderi ancora ben conservati di una [torre di avvistamento saracena del XVI secolo](https://it.wikipedia.org/wiki/Punta_Manara)
+- La falesia compare anche nel video promozionale del portale del turismo di Sestri Levante, dal minuto 1:19 all'1:25. Se non l'avete mai visto, guardatelo perché è bellissimo:
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/315609273?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
