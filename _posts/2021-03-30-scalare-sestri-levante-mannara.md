@@ -50,7 +50,7 @@ Dopo una ventina di minuti di cammino, arriverete ad un casotto/rifugio. Scender
 Secondo me le vie più belle sono Mitocondri e Apocalische ma sicuramente Software è il primo 7 che proverei in questa falesia! La roccia è solida e dove non lo era ho aggiunto una buona dose di resina. Il casco per l'assicuratore, in generale, è raccomandato! Magari qualche piccola scaglietta, un po' fuori linea, potrebbe staccarsi!
 
 ### Ringraziamenti
-Un grandissimo ringraziamento va a tutti gli amici e ai compagni di scalata che nell'arco di questi anni mi hanno aiutato, supportato e sopportato! In special modo a Bracci, Roberta, Ginnico, Walls, Luca e Rota!
+Un grandissimo ringraziamento va a tutti gli amici e ai compagni di scalata che nell'arco di questi anni mi hanno aiutato, supportato e sopportato! In special modo a Bracci, Roberta, Ginnico, Walls, Bena, Raffa, Luca e Rota!
 
 Una menzione speciale però va a Daniele. Tutto questo è anche merito dell'enorme entusiasmo di vivere e motivazione che ci hai lasciato in eredità! Grazie di cuore!
 
